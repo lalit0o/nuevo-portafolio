@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:61228/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:61228/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 May 2025 11:53:51 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practica2</title>
+      <link>http://localhost:1313/posts/practica2/</link>
+      <pubDate>Fri, 16 May 2025 11:53:51 -0700</pubDate>
+      <guid>http://localhost:1313/posts/practica2/</guid>
+      <description>&lt;h1 id=&#34;práctica-2&#34;&gt;Práctica 2&lt;/h1&gt;&#xA;&lt;p&gt;¡Bienvenido a la práctica 2 de mi portafolio Hugo!&lt;/p&gt;&#xA;&lt;h2 id=&#34;ejemplo-de-lista&#34;&gt;Ejemplo de lista&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Elemento uno&lt;/li&gt;&#xA;&lt;li&gt;Elemento dos&lt;/li&gt;&#xA;&lt;li&gt;Elemento tres&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;código-de-ejemplo&#34;&gt;Código de ejemplo&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hola desde la práctica 2&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;imagen-de-ejemplo&#34;&gt;Imagen de ejemplo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.hugo.io/images/hugo-logo-wide.svg&#34; alt=&#34;Ejemplo&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tabla-de-ejemplo&#34;&gt;Tabla de ejemplo&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Nombre&lt;/th&gt;&#xA;          &lt;th&gt;Valor&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Uno&lt;/td&gt;&#xA;          &lt;td&gt;1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Dos&lt;/td&gt;&#xA;          &lt;td&gt;2&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Esto es una cita de ejemplo.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;¿Listo para seguir aprendiendo Hugo?&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
