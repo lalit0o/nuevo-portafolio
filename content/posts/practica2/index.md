@@ -34,4 +34,4 @@ print("Hola desde la práctica 2")
 > Esto es una cita de ejemplo.
 
 ---
-¿Listo para seguir aprendiendo Hugo?
+¿Listo para seguir aprendiendo Hugo?.
